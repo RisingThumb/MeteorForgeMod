@@ -1,0 +1,14 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":[
+		"XX"
+	],
+	"key":{
+		"X":{
+			"item":"tutorialmod:meteor_ingot"
+		}
+	},
+	"result":{
+		"item":"tutorialmod:first_item"
+	}
+}

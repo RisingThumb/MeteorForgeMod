@@ -1,0 +1,19 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern":[
+		"X#X",
+		"X X",
+		"X X"
+	],
+	"key":{
+		"X":{
+			"item":"tutorialmod:meteor_ingot"
+		},
+		"#":{
+			"item":"tutorialmod:first_item"
+		}
+	},
+	"result":{
+		"item":"tutorialmod:meteor_leggings"
+	}
+}

@@ -1,0 +1,18 @@
+itemGroup.tutorialmod=Tutorial Mod
+
+# Items
+item.tutorialmod.first_item.name=Meteor Plate
+item.tutorialmod.meteor_ingot.name=Meteor Ingot
+item.tutorialmod.tutorial_axe.name=Meteor Axe
+item.tutorialmod.tutorial_pickaxe.name=Meteor Pickaxe
+item.tutorialmod.tutorial_hoe.name=Meteor Hoe
+item.tutorialmod.tutorial_sword.name=Meteor Sword
+item.tutorialmod.tutorial_shovel.name=Meteor Shovel
+item.tutorialmod.meteor_helmet.name=Meteor Helmet
+item.tutorialmod.meteor_chestplate.name=Meteor Chestplate
+item.tutorialmod.meteor_leggings.name=Meteor Leggings
+item.tutorialmod.meteor_boots.name=Meteor Boots
+
+# Blocks
+tile.tutorialmod.first_block.name=Meteor Block
+tile.tutorialmod.meteor_ore.name=Meteor Ore
